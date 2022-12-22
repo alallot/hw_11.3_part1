@@ -1,0 +1,13 @@
+.info {
+    color: blueviolet;
+    background-color: darkgray;
+    text-decoration: underline;
+    border: 1px solid red;
+
+}
+
+.description {
+    color: darkblue;
+    margin-bottom: 10px;
+
+}
